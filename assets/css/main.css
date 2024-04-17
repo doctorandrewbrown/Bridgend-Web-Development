@@ -492,6 +492,7 @@ section {
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
+/*
 .hero {
   width: 100%;
   min-height: 100vh;
@@ -501,7 +502,7 @@ section {
   padding: 120px 0;
   z-index: 3;
 }
-
+*/
 @media (min-width: 1034px) {
   .hero:after {
     position: absolute;
